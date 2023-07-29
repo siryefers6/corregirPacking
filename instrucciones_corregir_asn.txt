@@ -1,7 +1,0 @@
-1. el programa debe estar a dos niveles por debajo de la carpeta Downloads, pero por fuera de la carpeta Downloads
-ejemplo:
-C:\Users\sirye\Pictures\Saved Pictures
-2. para que funcione siempre debe crearse la carpeta 'corregir' dentro de la carpeta 'Downloads'.
-3. tanto el packing con errores como el packing descargado de ariba deben ser copiados o movidos a la carpeta 'corregir'.
-4. para utilizar el programa, crear acceso directo en escritorio y asignarle combinacion de teclas o doble clic en el programa.
-5. el programa arreglara el packing list, eliminara los dos archivos dentro de la carpeta 'corregir' y creara el packing corregido en la carpeta Downloadas. 
